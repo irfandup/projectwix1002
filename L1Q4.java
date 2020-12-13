@@ -16,6 +16,7 @@ public class L1Q4 {
      */
     public static void main(String[] args) {
        int telur;
+        System.out.println("Telur sedap");
     }
     
 }
